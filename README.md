@@ -1,2 +1,3 @@
-# TestGithub
-Github tutorial
+TestGithub
+
+Github tutorial for beginners
